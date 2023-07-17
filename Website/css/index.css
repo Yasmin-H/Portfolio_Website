@@ -600,6 +600,15 @@ blockquote {
   padding-top: 70px;
 }
 
+.linkProject{
+  display: inline;
+  margin-left: 50px;
+  vertical-align: top;
+  /* float: right; */
+
+
+}
+
 /*------------------------------------------------------
 	Portfolio Styling 
 --------------------------------------------------------*/
